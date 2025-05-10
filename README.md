@@ -22,10 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://www.loom.com/share/3a0ee56f2cad4e27936114d8c6eb3dcf?sid=3421d5b1-03cd-4c32-bd3d-53636ac0c474
 
-<iframe width="420" height="315"
-src="https://www.loom.com/share/3a0ee56f2cad4e27936114d8c6eb3dcf?sid=3421d5b1-03cd-4c32-bd3d-53636ac0c474">
-</iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom.
